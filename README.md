@@ -4,6 +4,8 @@ Pro Kabaddi League 2019 Hackathon Repository
 This submission includes the following tasks
 
 Task 2: Predict the top team in the points table after the completion of the league matches
+Prediction: Dabang Delhi
+Approach:
 Data was taken from sportskeeda.com 
 Previous Season Data (2014 to 2018): Forms Train Data
 Current Season Data (2019): Forms Test Data
@@ -20,6 +22,8 @@ Files Uploaded:
   Train_Team Data.csv
 
 Task 3: Predict the team with the highest points for successful raids
+Prediction: BENGAL WARRIORS
+Approach: 
 Data was scraped from https://www.prokabaddi.com/
 Code for scraping is attached herewith (Hackathon Team Data.ipynb)
 Previous Season Data (2014 to 2018): Forms Train Data
@@ -38,6 +42,8 @@ Files Uploaded:
   Hackathon Team Data.ipynb (python code for scraping data for train & test data
   
 Task 4: Predict the team with the highest points for successful tackles 
+Prediction: PUNERI PALTAN
+Approach: 
 Data was scraped from https://www.prokabaddi.com/
 Code for scraping is attached herewith (Hackathon Team Data.ipynb)
 Previous Season Data (2014 to 2018): Forms Train Data
@@ -56,6 +62,8 @@ Files Uploaded:
   Hackathon Team Data.ipynb (python code for scraping data for train & test data
   
 Task 5: Predict the team with the highest highest super-performance total
+Prediction: BENGAL WARRIORS
+Approach: 
 Data was scraped from https://www.prokabaddi.com/
 Code for scraping is attached herewith (Hackathon Team Data.ipynb)
 Previous Season Data (2014 to 2018): Forms Train Data
@@ -75,6 +83,8 @@ Files Uploaded:
   Hackathon Team Data.ipynb (python code for scraping data for train & test data
   
 Task 6: Predict the player with the highest SUCCESSFUL RAID percentage
+Prediction: Ran Singh (Tamil Thalivas)
+Approach: 
 Data was scraped from https://www.prokabaddi.com/
 Code for scraping is attached herewith (Hackathon Player Data.ipynb)
 Data was read into a dataframe
@@ -91,6 +101,8 @@ Files Uploaded:
   Hackathon Player Data.ipynb (python code for scraping data for train & test data
   
 Task 7: Predict the player with the highest SUCCESSFUL TACKLES percentage
+Prediction: Rahul Chaudhari (Tamil Thalivas)
+Approach: 
 Data was scraped from https://www.prokabaddi.com/
 Code for scraping is attached herewith (Hackathon Player Data.ipynb)
 Data was read into a dataframe
